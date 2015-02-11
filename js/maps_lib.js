@@ -24,8 +24,8 @@ var MapsLib = {
   fusionTableId:      "1qk9z46VakTMrA7zLpt8y4SfQos3FGsWhRTrww1yZ", //Mobility App Neighborhood Assets point layer
   // https://www.google.com/fusiontables/DataSource?docid=1qk9z46VakTMrA7zLpt8y4SfQos3FGsWhRTrww1yZ  
 
-  polygon1TableID:    "1VeRnEThojzHXw2PSiKJtIr_dPPqd9huEopV6NrQi", //Opportunity-index-values-2014 with Census 2010 tracts polygons
-  // https://www.google.com/fusiontables/DataSource?docid=1VeRnEThojzHXw2PSiKJtIr_dPPqd9huEopV6NrQi
+  polygon1TableID:    "19hpBpYE3GaHGZL79CJHN77wRHsiUDNnyEgLvvyjB", // Opportunity-index-2014-updated-2015-02-10 (with Census 2010 tracts polygons)
+  // https://www.google.com/fusiontables/data?docid=19hpBpYE3GaHGZL79CJHN77wRHsiUDNnyEgLvvyjB#map:id=3
 
   //*New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
   //*Important* this key is for demonstration purposes. please register your own.
