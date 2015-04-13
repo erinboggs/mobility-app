@@ -59,7 +59,7 @@ var MapsLib = {
         {
           stylers: [
             { saturation: -100 }, // MODIFY Saturation and Lightness of Google base map if needed
-            { lightness: 40 }     // Current values make thematic polygon shading stand out over base map; also adjust opacity in Google Fusion Table map
+            { lightness: 10 }     // Value of 40 makes thematic polygon shading stand out over base map; also adjust opacity in Google Fusion Table map
           ]
         }
       ]
